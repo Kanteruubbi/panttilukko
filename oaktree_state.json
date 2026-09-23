@@ -1,0 +1,2377 @@
+{
+ "ciks": {
+  "1076312": {
+   "active": false,
+   "name": "Oaktree Emerging Markets Absolute Return (Cayman) Fund, Ltd."
+  },
+  "1087221": {
+   "active": true,
+   "name": "OAKTREE EUROPEAN HIGH YIELD FUND, L.P."
+  },
+  "1087222": {
+   "active": true,
+   "name": "OAKTREE EXPANDED HIGH YIELD FUND, L.P."
+  },
+  "1162436": {
+   "active": false,
+   "name": "Oaktree High Income Convertible Fund, L.P."
+  },
+  "1165559": {
+   "active": false,
+   "name": "Oaktree Emerging Markets Absolute Return Feeder Fund, L.P."
+  },
+  "1168648": {
+   "active": true,
+   "name": "OAKTREE EMPLOYEE INVESTMENT FUND, L.P."
+  },
+  "1219635": {
+   "active": true,
+   "name": "OAKTREE HIGH INCOME CONVERTIBLE FUND II, L.P."
+  },
+  "1373528": {
+   "active": false,
+   "name": "OAKTREE EUROPEAN CREDIT OPPORTUNITIES FUND L P"
+  },
+  "1397787": {
+   "active": false,
+   "name": "Alliance-Oaktree Co-Investors, LLC"
+  },
+  "1402746": {
+   "active": true,
+   "name": "OAKTREE FUND GP I, L.P."
+  },
+  "1402869": {
+   "active": false,
+   "name": "OAKTREE FUND GP II, L.P."
+  },
+  "1403378": {
+   "active": false,
+   "name": "Oaktree Capital II, L.P."
+  },
+  "1403382": {
+   "active": false,
+   "name": "Oaktree Holdings, Inc."
+  },
+  "1403524": {
+   "active": false,
+   "name": "Oaktree Holdings, Ltd."
+  },
+  "1403525": {
+   "active": true,
+   "name": "Oaktree Capital Group Holdings GP, LLC"
+  },
+  "1403527": {
+   "active": true,
+   "name": "Oaktree Capital Group Holdings, L.P."
+  },
+  "1403528": {
+   "active": true,
+   "name": "Brookfield Oaktree Holdings, LLC"
+  },
+  "1403530": {
+   "active": true,
+   "name": "Oaktree Capital I, L.P."
+  },
+  "1407178": {
+   "active": false,
+   "name": "Brookfield OCM Holdings II, LLC"
+  },
+  "1407181": {
+   "active": false,
+   "name": "Brookfield OCM Holdings, LLC"
+  },
+  "1414379": {
+   "active": false,
+   "name": "Oaktree Loan Fund 2X (Cayman) Ltd"
+  },
+  "1414380": {
+   "active": false,
+   "name": "Oaktree Loan Fund (Cayman) Ltd"
+  },
+  "1414557": {
+   "active": false,
+   "name": "Oaktree Loan Fund LP"
+  },
+  "1414559": {
+   "active": false,
+   "name": "Oaktree Loan Fund 2x LP"
+  },
+  "1414932": {
+   "active": true,
+   "name": "Oaktree Specialty Lending Corp"
+  },
+  "1421975": {
+   "active": false,
+   "name": "BROOKFIELD AT OAKTREE LLC"
+  },
+  "1423392": {
+   "active": false,
+   "name": "OAKTREE REAL ESTATE OPPORTUNITIES FUND IV LP"
+  },
+  "1425062": {
+   "active": false,
+   "name": "OAKTREE EUROPEAN CREDIT OPPORTUNITIES FUND CAYMAN LTD"
+  },
+  "1425100": {
+   "active": false,
+   "name": "OAKTREE EUROPEAN CREDIT OPPORTUNITIES USD CAYMAN FUND LTD"
+  },
+  "1425161": {
+   "active": false,
+   "name": "Oaktree Asset Management, LLC"
+  },
+  "1436330": {
+   "active": false,
+   "name": "OAKTREE LOAN FUND II LP"
+  },
+  "1438064": {
+   "active": false,
+   "name": "OAKTREE ASIA REAL ESTATE OPPORTUNITIES FUND LP"
+  },
+  "1443588": {
+   "active": true,
+   "name": "OAKTREE VALUE OPPORTUNITIES (CAYMAN) FUND, LTD."
+  },
+  "1443590": {
+   "active": true,
+   "name": "OAKTREE VALUE OPPORTUNITIES FEEDER FUND, L.P."
+  },
+  "1455475": {
+   "active": false,
+   "name": "OAKTREE ASIA SPECIAL SITUATIONS FUND LP"
+  },
+  "1456813": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund III (Cayman) Ltd."
+  },
+  "1456814": {
+   "active": false,
+   "name": "Oaktree Mezzanine Plus Fund, L.P."
+  },
+  "1456818": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund III, L.P."
+  },
+  "1456947": {
+   "active": true,
+   "name": "OAKTREE SENIOR LOAN FUND LP"
+  },
+  "1458018": {
+   "active": false,
+   "name": "OAKTREE HIGH YIELD PLUS (CAYMAN) FUND LTD"
+  },
+  "1458019": {
+   "active": false,
+   "name": "OAKTREE HIGH YIELD PLUS FEEDER FUND LP"
+  },
+  "1459070": {
+   "active": false,
+   "name": "Oaktree Principal Fund V (Parallel), L.P."
+  },
+  "1459071": {
+   "active": false,
+   "name": "Oaktree Principal Fund V, L.P."
+  },
+  "1464494": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII (Cayman) Ltd."
+  },
+  "1464495": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII, L.P."
+  },
+  "1466858": {
+   "active": false,
+   "name": "Oaktree Principal Fund V (Cayman) Ltd."
+  },
+  "1468584": {
+   "active": true,
+   "name": "Oaktree Senior Loan Fund (Cayman) Ltd."
+  },
+  "1470060": {
+   "active": false,
+   "name": "Oaktree PPIP Private Fund (Cayman), L.P."
+  },
+  "1470061": {
+   "active": false,
+   "name": "Oaktree PPIP Private Fund, L.P."
+  },
+  "1470991": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII (Parallel), L.P."
+  },
+  "1474239": {
+   "active": false,
+   "name": "Oaktree Value Opportunities Fund GP, L.P."
+  },
+  "1474240": {
+   "active": false,
+   "name": "Oaktree Value Opportunities Fund GP Ltd."
+  },
+  "1474241": {
+   "active": true,
+   "name": "Oaktree Value Opportunities Fund Holdings, L.P."
+  },
+  "1474244": {
+   "active": true,
+   "name": "Oaktree Value Opportunities Fund, L.P."
+  },
+  "1474415": {
+   "active": false,
+   "name": "Oaktree Private Investment Fund 2009, L.P."
+  },
+  "1482447": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund III, L.P."
+  },
+  "1482449": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund III (Cayman), L.P."
+  },
+  "1483989": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIIIb (Cayman) Ltd."
+  },
+  "1483990": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIIIb (Parallel), L.P."
+  },
+  "1483993": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIIIb, L.P."
+  },
+  "1496119": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII (Parallel 2), L.P."
+  },
+  "1499005": {
+   "active": false,
+   "name": "Oaktree Fund GP, LLC"
+  },
+  "1501123": {
+   "active": false,
+   "name": "Oaktree Opportunities Investments, L.P."
+  },
+  "1505809": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund III (Parallel), L.P."
+  },
+  "1506765": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III (Delaware), L.P."
+  },
+  "1506766": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III (U.S.), L.P."
+  },
+  "1506769": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III, L.P."
+  },
+  "1507767": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III (Parallel) Feeder, L.P."
+  },
+  "1507768": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III (Parallel), L.P."
+  },
+  "1507922": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund V (Cayman), L.P."
+  },
+  "1507923": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund V, L.P."
+  },
+  "1513561": {
+   "active": false,
+   "name": "Oaktree Private Investment Fund 2010, L.P."
+  },
+  "1517424": {
+   "active": false,
+   "name": "Oaktree Finance, LLC"
+  },
+  "1519867": {
+   "active": false,
+   "name": "Oaktree FF Investment Fund, L.P."
+  },
+  "1519872": {
+   "active": false,
+   "name": "Oaktree Principal Fund V GP Ltd."
+  },
+  "1519874": {
+   "active": false,
+   "name": "Oaktree Principal Fund V GP, L.P."
+  },
+  "1519875": {
+   "active": false,
+   "name": "Oaktree FF Investment Fund GP, L.P."
+  },
+  "1519876": {
+   "active": false,
+   "name": "Oaktree FF Investment Fund GP Ltd."
+  },
+  "1529449": {
+   "active": false,
+   "name": "Oaktree Huntington Investment Fund AIF (Delaware), L.P."
+  },
+  "1529453": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII (Parallel) AIF (Delaware), L.P."
+  },
+  "1529454": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII AIF (Delaware), L.P."
+  },
+  "1532818": {
+   "active": false,
+   "name": "Oaktree Fund GP AIF, LLC"
+  },
+  "1532819": {
+   "active": false,
+   "name": "Oaktree AIF Investment GP, LLC"
+  },
+  "1532820": {
+   "active": false,
+   "name": "Oaktree AIF Investments, L.P."
+  },
+  "1532821": {
+   "active": false,
+   "name": "Oaktree FF Investment Fund AIF (Delaware), L.P."
+  },
+  "1532822": {
+   "active": false,
+   "name": "Oaktree Fund AIF Series, L.P."
+  },
+  "1532823": {
+   "active": false,
+   "name": "Oaktree Fund GP III, L.P."
+  },
+  "1532824": {
+   "active": false,
+   "name": "Oaktree Principal Fund V (Delaware), L.P."
+  },
+  "1534195": {
+   "active": false,
+   "name": "Oaktree European Principal Fund III (Cayman), L.P."
+  },
+  "1537485": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX (Cayman), L.P."
+  },
+  "1537486": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX, L.P."
+  },
+  "1541038": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX (Parallel 2), L.P."
+  },
+  "1541039": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX (Parallel), L.P."
+  },
+  "1549532": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VI, L.P."
+  },
+  "1549533": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VI (Cayman), L.P."
+  },
+  "1550685": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Equity Fund (Delaware), L.P."
+  },
+  "1550686": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Equity Fund (Cayman), L.P."
+  },
+  "1551677": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund (Cayman), L.P."
+  },
+  "1551678": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund, L.P."
+  },
+  "1561244": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund (Parallel), L.P."
+  },
+  "1561245": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund (Parallel) Feeder, L.P."
+  },
+  "1564750": {
+   "active": false,
+   "name": "Oaktree Private Investment Fund 2012, L.P."
+  },
+  "1570545": {
+   "active": false,
+   "name": "Oaktree Principal Fund VI (Feeder), L.P."
+  },
+  "1570588": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund, L.P."
+  },
+  "1570599": {
+   "active": false,
+   "name": "Oaktree Principal Fund VI (Parallel), L.P."
+  },
+  "1572869": {
+   "active": false,
+   "name": "Oaktree Emerging Market Opportunities Fund (Feeder), L.P."
+  },
+  "1572870": {
+   "active": true,
+   "name": "Oaktree Emerging Market Opportunities Fund, L.P."
+  },
+  "1574141": {
+   "active": false,
+   "name": "Oaktree TM Holdings CTB, Ltd."
+  },
+  "1574142": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII GP, L.P."
+  },
+  "1574143": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund VIII GP Ltd."
+  },
+  "1575018": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund (Cayman), L.P."
+  },
+  "1575040": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund, L.P."
+  },
+  "1577791": {
+   "active": false,
+   "name": "Oaktree Strategic Income Corp"
+  },
+  "1579949": {
+   "active": false,
+   "name": "Oaktree European Dislocation Fund, L.P."
+  },
+  "1579950": {
+   "active": false,
+   "name": "Oaktree European Dislocation Fund (U.S.), L.P."
+  },
+  "1595622": {
+   "active": false,
+   "name": "OakTree Real Estate Debt ASP Fund, a series of Alternative Strategies Private Equity Platform, LLC"
+  },
+  "1600265": {
+   "active": false,
+   "name": "Oaktree Value Equity Fund (Delaware), L.P."
+  },
+  "1600267": {
+   "active": false,
+   "name": "Oaktree Value Equity Fund GP Ltd."
+  },
+  "1600268": {
+   "active": false,
+   "name": "Oaktree Value Equity Fund GP, L.P."
+  },
+  "1600269": {
+   "active": true,
+   "name": "Oaktree Value Equity Fund, L.P."
+  },
+  "1600270": {
+   "active": false,
+   "name": "Oaktree Value Equity Holdings, L.P."
+  },
+  "1600271": {
+   "active": false,
+   "name": "Oaktree Value Equity Fund (Cayman), L.P."
+  },
+  "1600709": {
+   "active": true,
+   "name": "Oaktree Strategic Credit Fund B, L.P."
+  },
+  "1601112": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund IV, L.P."
+  },
+  "1601114": {
+   "active": false,
+   "name": "OAKTREE MEZZANINE FUND IV (CAYMAN), L.P."
+  },
+  "1601278": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund II (Cayman), L.P."
+  },
+  "1601494": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund II, L.P."
+  },
+  "1601495": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund II (Parallel), L.P."
+  },
+  "1601508": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund II (Parallel) Feeder, L.P."
+  },
+  "1601555": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund III (Parallel) Feeder, L.P."
+  },
+  "1607508": {
+   "active": false,
+   "name": "Oaktree Strategic Credit Fund C, L.P."
+  },
+  "1607509": {
+   "active": false,
+   "name": "Oaktree Strategic Credit Fund C (Cayman), L.P."
+  },
+  "1607809": {
+   "active": true,
+   "name": "Oaktree Strategic Credit Fund A, L.P."
+  },
+  "1607810": {
+   "active": false,
+   "name": "Oaktree Strategic Credit Fund A (Cayman), LP"
+  },
+  "1614616": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VII, L.P."
+  },
+  "1614617": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VII (Feeder), L.P."
+  },
+  "1615827": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund X, L.P."
+  },
+  "1615829": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund X Feeder (Cayman), L.P."
+  },
+  "1615831": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund Xb, L.P."
+  },
+  "1615832": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund Xb Feeder (Cayman), L.P."
+  },
+  "1616527": {
+   "active": false,
+   "name": "Oaktree Tribune, L.P."
+  },
+  "1618737": {
+   "active": false,
+   "name": "Oaktree Funds"
+  },
+  "1619599": {
+   "active": true,
+   "name": "Oaktree Private Investment Fund IV, L.P."
+  },
+  "1622220": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund IV Feeder (Cayman), L.P."
+  },
+  "1622599": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund IV, L.P."
+  },
+  "1624742": {
+   "active": true,
+   "name": "Oaktree Global High Yield Bond Fund, L.P."
+  },
+  "1624751": {
+   "active": false,
+   "name": "Oaktree Real Estate Finance, LLC"
+  },
+  "1627222": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund X (Parallel), L.P."
+  },
+  "1627237": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund Xb (Parallel), L.P."
+  },
+  "1633738": {
+   "active": false,
+   "name": "Oaktree Strategic Income (Cayman) Ltd."
+  },
+  "1633748": {
+   "active": true,
+   "name": "Oaktree Strategic Income LLC"
+  },
+  "1636367": {
+   "active": false,
+   "name": "CoastEdge Oaktree, LLC"
+  },
+  "1638472": {
+   "active": true,
+   "name": "Oaktree Enhanced Income Fund III (Parallel), L.P."
+  },
+  "1638476": {
+   "active": false,
+   "name": "Oaktree Enhanced Income Fund III (Cayman), L.P."
+  },
+  "1638551": {
+   "active": true,
+   "name": "Oaktree Enhanced Income Fund III, L.P."
+  },
+  "1639561": {
+   "active": false,
+   "name": "BBH Wealth Strategies, LLC - Oaktree Opportunities Series"
+  },
+  "1646344": {
+   "active": false,
+   "name": "Oaktree Fund GP 2A Ltd"
+  },
+  "1651205": {
+   "active": true,
+   "name": "Oaktree European Principal Fund IV, L.P."
+  },
+  "1651209": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund, L.P."
+  },
+  "1651692": {
+   "active": false,
+   "name": "Oaktree European Principal Fund IV Feeder (U.S.), L.P."
+  },
+  "1651693": {
+   "active": false,
+   "name": "Oaktree European Principal Fund IV Feeder (Cayman), L.P."
+  },
+  "1651695": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund Feeder (U.S.), L.P."
+  },
+  "1653312": {
+   "active": false,
+   "name": "BBH Wealth Strategies Unit Trust - Oaktree Opportunities Sub-Trust"
+  },
+  "1655451": {
+   "active": false,
+   "name": "PE Premiere Oaktree Opportunities X & Xb Onshore Feeder LP"
+  },
+  "1668697": {
+   "active": false,
+   "name": "Oaktree Infrastructure Fund Feeder (Cayman), L.P."
+  },
+  "1668698": {
+   "active": false,
+   "name": "Oaktree Infrastructure Fund (Parallel), L.P."
+  },
+  "1669049": {
+   "active": false,
+   "name": "Oaktree Infrastructure Fund, L.P."
+  },
+  "1671937": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund II, L.P."
+  },
+  "1672156": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund II Feeder (Cayman), L.P."
+  },
+  "1676821": {
+   "active": false,
+   "name": "Oaktree ATI Investors, L.P."
+  },
+  "1686944": {
+   "active": false,
+   "name": "Oaktree Japan Absolute Return Fund, L.P."
+  },
+  "1686946": {
+   "active": false,
+   "name": "Oaktree Japan Absolute Return Fund Partnership Feeder (Cayman) LP"
+  },
+  "1687181": {
+   "active": true,
+   "name": "Oaktree Huntington Investment Fund II, L.P."
+  },
+  "1687182": {
+   "active": true,
+   "name": "Oaktree Organics, L.P."
+  },
+  "1687608": {
+   "active": false,
+   "name": "Oaktree Huntington Investment Fund II GP, L.P."
+  },
+  "1687671": {
+   "active": true,
+   "name": "OAKTREE EUROPEAN SPECIAL SITUATIONS FUND, L.P."
+  },
+  "1691168": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Debt Total Return Fund, L.P."
+  },
+  "1691329": {
+   "active": true,
+   "name": "OAKTREE EMERGING MARKETS DEBT TOTAL RETURN FUND PARTNERSHIP FEEDER (CAYMAN), L.P."
+  },
+  "1691495": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Debt Total Return Fund Corporate Feeder (Cayman), L.P."
+  },
+  "1694203": {
+   "active": false,
+   "name": "Oaktree Pinnacle Investment Fund Feeder (REIT), LLC"
+  },
+  "1695956": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund, L.P."
+  },
+  "1697917": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Unlevered Fund, L.P."
+  },
+  "1697918": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Fund, L.P."
+  },
+  "1698200": {
+   "active": false,
+   "name": "OUTLIER REALTY TRUST, INC."
+  },
+  "1699745": {
+   "active": true,
+   "name": "Oaktree-Forrest Multi-Strategy,LLC"
+  },
+  "1699746": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX Delaware, L.P."
+  },
+  "1699747": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX GP, L.P."
+  },
+  "1699748": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund IX GP LTD."
+  },
+  "1701488": {
+   "active": false,
+   "name": "Oaktree Transportation Infrastructure Fund (Parallel), L.P."
+  },
+  "1701489": {
+   "active": false,
+   "name": "Oaktree Energy Infrastructure Fund, L.P."
+  },
+  "1701492": {
+   "active": false,
+   "name": "Oaktree Transportation Infrastructure Fund, L.P."
+  },
+  "1701493": {
+   "active": false,
+   "name": "Oaktree Energy Infrastructure Fund (Parallel), L.P."
+  },
+  "1701705": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund IV (Parallel), L.P."
+  },
+  "1701706": {
+   "active": false,
+   "name": "Oaktree High Yield Fund, II L.P."
+  },
+  "1701822": {
+   "active": false,
+   "name": "Oaktree BAA Emerging Market Opportunities Fund, L.P."
+  },
+  "1701823": {
+   "active": true,
+   "name": "Oaktree Boulder Investment Fund, L.P."
+  },
+  "1701921": {
+   "active": true,
+   "name": "Oaktree CLO 2015-1 Ltd."
+  },
+  "1701922": {
+   "active": false,
+   "name": "Oaktree CLO 2014-2 Ltd."
+  },
+  "1701923": {
+   "active": true,
+   "name": "Oaktree CLO 2014-1 Ltd."
+  },
+  "1701924": {
+   "active": true,
+   "name": "Oaktree Cascade Investment Fund II, L.P."
+  },
+  "1701925": {
+   "active": true,
+   "name": "Oaktree Cascade Investment Fund I, L.P."
+  },
+  "1702030": {
+   "active": false,
+   "name": "Oaktree EIF I Series A1 Ltd."
+  },
+  "1702080": {
+   "active": false,
+   "name": "Oaktree Desert Sky Investment Fund, L.P."
+  },
+  "1702084": {
+   "active": false,
+   "name": "Oaktree EIF I Series A Ltd."
+  },
+  "1702150": {
+   "active": true,
+   "name": "Oaktree TT Multi-Strategy Fund, L.P."
+  },
+  "1702151": {
+   "active": false,
+   "name": "Oaktree Juniper Investment Fund, L.P."
+  },
+  "1702152": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund X (Parallel 2), L.P."
+  },
+  "1702153": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund Xb (Parallel 2), L.P."
+  },
+  "1702154": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund (Parallel), L.P."
+  },
+  "1702155": {
+   "active": true,
+   "name": "Oaktree Glacier Investment Fund, L.P."
+  },
+  "1702156": {
+   "active": true,
+   "name": "Oaktree Global Credit Fund, L.P."
+  },
+  "1702157": {
+   "active": false,
+   "name": "Oaktree Infrastructure Fund, S.C.S."
+  },
+  "1702158": {
+   "active": true,
+   "name": "Oaktree-TCDRS Strategic Credit, LLC"
+  },
+  "1702159": {
+   "active": true,
+   "name": "Oaktree-TBMR Strategic Credit Fund G, LLC"
+  },
+  "1702160": {
+   "active": true,
+   "name": "Oaktree-TBMR Strategic Credit Fund, LLC"
+  },
+  "1702161": {
+   "active": true,
+   "name": "Oaktree-TBMR Strategic Credit Fund F, LLC"
+  },
+  "1702162": {
+   "active": true,
+   "name": "Oaktree-TBMR Strategic Credit Fund C, LLC"
+  },
+  "1702163": {
+   "active": true,
+   "name": "Oaktree-TSE 16 Strategic Credit, LLC"
+  },
+  "1702164": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund II S.C.S."
+  },
+  "1702165": {
+   "active": true,
+   "name": "Oaktree-Minn Strategic Credit, LLC"
+  },
+  "1702166": {
+   "active": true,
+   "name": "Oaktree TX Emerging Market Opportunities Fund, L.P."
+  },
+  "1702199": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VII (Parallel 2), L.P."
+  },
+  "1702200": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VII (Parallel 3), L.P."
+  },
+  "1702201": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VII (Parallel 4), L.P."
+  },
+  "1702203": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VII (Parallel), L.P."
+  },
+  "1702204": {
+   "active": true,
+   "name": "Oaktree European Principal Fund IV, S.C.S."
+  },
+  "1702299": {
+   "active": false,
+   "name": "Oaktree EIF III Series I Ltd."
+  },
+  "1702300": {
+   "active": true,
+   "name": "Oaktree-NGP Strategic Credit, LLC"
+  },
+  "1702301": {
+   "active": true,
+   "name": "Oaktree Pinnacle Investment Fund, L.P."
+  },
+  "1702310": {
+   "active": false,
+   "name": "Oaktree EIF II Series B1 Ltd."
+  },
+  "1702328": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Equity Fund, L.P."
+  },
+  "1702329": {
+   "active": false,
+   "name": "Oaktree EIF III Series II Ltd."
+  },
+  "1702330": {
+   "active": false,
+   "name": "Oaktree EIF II Series A1 Ltd."
+  },
+  "1702357": {
+   "active": false,
+   "name": "Oaktree EIF II Series A2 Ltd."
+  },
+  "1702443": {
+   "active": false,
+   "name": "Oaktree Emerging Markets Absolute Return Fund, L.P."
+  },
+  "1703616": {
+   "active": true,
+   "name": "Oaktree Global Credit Feeder (Cayman), L.P."
+  },
+  "1704293": {
+   "active": false,
+   "name": "Oaktree Energy Infrastructure Fund Feeder (Cayman), L.P."
+  },
+  "1704294": {
+   "active": false,
+   "name": "Oaktree Transportation Infrastructure Fund Feeder (Cayman), L.P."
+  },
+  "1713407": {
+   "active": true,
+   "name": "BROOKFIELD REAL ESTATE INCOME TRUST INC."
+  },
+  "1713772": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund II (Parallel), L.P."
+  },
+  "1713776": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Securities Fund SF, LLC"
+  },
+  "1713815": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Fund (Parallel), L.P."
+  },
+  "1713817": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Unlevered Fund (Parallel), L.P."
+  },
+  "1715999": {
+   "active": false,
+   "name": "OAKTREE MIDDLE-MARKET DIRECT LENDING UNLEVERED FEEDER (CAD), L.P."
+  },
+  "1716001": {
+   "active": false,
+   "name": "OAKTREE MIDDLE-MARKET DIRECT LENDING FEEDER (CAD), L.P."
+  },
+  "1725052": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund II, L.P."
+  },
+  "1725227": {
+   "active": false,
+   "name": "Oaktree Special Situations Fund II (Feeder), L.P."
+  },
+  "1726178": {
+   "active": false,
+   "name": "Oaktree Real Estate Finance II, LLC"
+  },
+  "1732445": {
+   "active": false,
+   "name": "OAKTREE POWER OPPORTUNITIES FUND III DELAWARE, L.P."
+  },
+  "1733997": {
+   "active": false,
+   "name": "Oaktree RE Debt Access Fund II, L.P."
+  },
+  "1734906": {
+   "active": true,
+   "name": "Oaktree Avalon Co-Investment Fund II, L.P."
+  },
+  "1734907": {
+   "active": true,
+   "name": "Oaktree Star Investment Fund II, L.P."
+  },
+  "1735669": {
+   "active": false,
+   "name": "Oaktree Emerging Markets Opportunities Fund II (Feeder), L.P."
+  },
+  "1735670": {
+   "active": true,
+   "name": "Oaktree Emerging Markets Opportunities Fund II, L.P."
+  },
+  "1743145": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund V, L.P."
+  },
+  "1743146": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund V Feeder, L.P."
+  },
+  "1744179": {
+   "active": false,
+   "name": "Oaktree Strategic Income II, Inc."
+  },
+  "1747665": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund X Holdings (Delaware), L.P."
+  },
+  "1755632": {
+   "active": false,
+   "name": "Oaktree Optical Holdings, L.P."
+  },
+  "1756449": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Fund (Parallel 2), L.P."
+  },
+  "1759198": {
+   "active": false,
+   "name": "Oaktree Ports America Fund, L.P."
+  },
+  "1759342": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund II Feeder (USD), L.P."
+  },
+  "1759343": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund II Feeder (USDH), L.P."
+  },
+  "1759344": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund II, L.P."
+  },
+  "1759972": {
+   "active": false,
+   "name": "Oaktree Ports America Fund (HS III), L.P."
+  },
+  "1759973": {
+   "active": false,
+   "name": "Oaktree Ports America Fund Feeder, L.P."
+  },
+  "1760486": {
+   "active": false,
+   "name": "PE Premier Oaktree Special Situations II Onshore Feeder LP"
+  },
+  "1763249": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII, L.P."
+  },
+  "1763293": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VIII GP Ltd."
+  },
+  "1763295": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VIII Feeder (Cayman), L.P."
+  },
+  "1763429": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund VIII GP, L.P."
+  },
+  "1764119": {
+   "active": true,
+   "name": "Oaktree European CLO Capital Fund Ltd"
+  },
+  "1768333": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund, L.P."
+  },
+  "1768334": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund (Parallel), L.P."
+  },
+  "1768336": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund (Parallel 2), L.P."
+  },
+  "1768784": {
+   "active": false,
+   "name": "Oaktree Principal Fund V (Parallel) AIF (Delaware), L.P."
+  },
+  "1768786": {
+   "active": false,
+   "name": "Oaktree Principal Fund V AIF (Delaware), L.P."
+  },
+  "1769810": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund V, L.P."
+  },
+  "1769812": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund V Feeder (Cayman), L.P."
+  },
+  "1770467": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund AIF (Delaware), L.P."
+  },
+  "1770479": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund (Parallel 2) AIF (Delaware), L.P."
+  },
+  "1770521": {
+   "active": false,
+   "name": "Oaktree Principal V Continuation Fund (Parallel) AIF (Delaware), L.P."
+  },
+  "1772154": {
+   "active": false,
+   "name": "Oaktree Structured Credit Income Fund Feeder, L.P."
+  },
+  "1772155": {
+   "active": false,
+   "name": "Oaktree Structured Credit Income Fund, L.P."
+  },
+  "1773751": {
+   "active": true,
+   "name": "Hims & Hers Health, Inc."
+  },
+  "1773788": {
+   "active": false,
+   "name": "Oaktree Acquisition Holdings GP Ltd."
+  },
+  "1773790": {
+   "active": false,
+   "name": "Oaktree Acquisition Holdings, L.P."
+  },
+  "1777521": {
+   "active": false,
+   "name": "Oaktree Ports America Fund Feeder (Cayman) HS III, L.P."
+  },
+  "1777658": {
+   "active": true,
+   "name": "Oaktree European Principal Fund V, L.P."
+  },
+  "1777659": {
+   "active": false,
+   "name": "Oaktree European Principal Fund V Feeder (Cayman), L.P."
+  },
+  "1777660": {
+   "active": false,
+   "name": "Oaktree European Principal Fund V Feeder (U.S.), L.P."
+  },
+  "1777663": {
+   "active": false,
+   "name": "Oaktree European Principal Fund V Feeder (USDH), L.P."
+  },
+  "1780629": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund Xb Holdings (Delaware), L.P."
+  },
+  "1790787": {
+   "active": true,
+   "name": "Oaktree Capital Holdings, LLC"
+  },
+  "1794040": {
+   "active": false,
+   "name": "Oaktree European Principal Fund V Offshore USD, Ltd."
+  },
+  "1795066": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund III Feeder (Cayman) I, L.P."
+  },
+  "1795257": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund III Feeder (Cayman) V, L.P."
+  },
+  "1795266": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund III Feeder (Cayman) IV, L.P."
+  },
+  "1795267": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund III Feeder (Cayman) III, L.P."
+  },
+  "1795269": {
+   "active": false,
+   "name": "Oaktree Real Estate Debt Fund III Feeder (Cayman) II, L.P."
+  },
+  "1795428": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund III, L.P."
+  },
+  "1802294": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund II Feeder (ICI), L.P."
+  },
+  "1806897": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund V Feeder (ICI) (Cayman), L.P."
+  },
+  "1806900": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund V Feeder (ICI), L.P."
+  },
+  "1807468": {
+   "active": true,
+   "name": "Oaktree Latigo Investment Fund, L.P."
+  },
+  "1807720": {
+   "active": true,
+   "name": "Oaktree Global Credit Plus Fund, L.P."
+  },
+  "1807722": {
+   "active": false,
+   "name": "Oaktree Global Credit Plus Fund AIF, L.P."
+  },
+  "1807858": {
+   "active": true,
+   "name": "Oaktree Mercury Investment Fund, L.P."
+  },
+  "1812007": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XI Feeder (Cayman), L.P."
+  },
+  "1812176": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XI (Parallel), L.P."
+  },
+  "1812249": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XI, L.P."
+  },
+  "1813277": {
+   "active": false,
+   "name": "Oaktree Absolute Return Income Fund, L.P."
+  },
+  "1813278": {
+   "active": false,
+   "name": "Oaktree Absolute Return Income Fund Holdings (Delaware), L.P."
+  },
+  "1815054": {
+   "active": false,
+   "name": "Oaktree Phoenix Investment Fund Feeder, L.P."
+  },
+  "1815055": {
+   "active": true,
+   "name": "Oaktree Phoenix Investment Fund, L.P."
+  },
+  "1815768": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XI Feeder 2 (Cayman), L.P."
+  },
+  "1815941": {
+   "active": true,
+   "name": "Oaktree Gilead Investment Fund, L.P."
+  },
+  "1816684": {
+   "active": false,
+   "name": "BBH Wealth Strategies Unit Trust - Oaktree Opportunities Fund XI Sub-Trust"
+  },
+  "1816924": {
+   "active": false,
+   "name": "BBH Wealth Strategies, LLC - Oaktree Opportunities Fund XI Series"
+  },
+  "1820300": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XI Feeder 3 (Cayman), L.P."
+  },
+  "1820921": {
+   "active": true,
+   "name": "Oaktree GC Super Fund, L.P."
+  },
+  "1820925": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund III (Parallel), L.P."
+  },
+  "1820931": {
+   "active": false,
+   "name": "Oaktree Acquisition Corp. II"
+  },
+  "1820979": {
+   "active": false,
+   "name": "Oaktree Acquisition Holdings II, L.P."
+  },
+  "1821034": {
+   "active": true,
+   "name": "Oaktree Alpha Credit Fund, L.P."
+  },
+  "1821046": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund V (Parallel), L.P."
+  },
+  "1821047": {
+   "active": true,
+   "name": "Oaktree European Principal Fund V, SCSp"
+  },
+  "1821053": {
+   "active": true,
+   "name": "Oaktree Huntington-GCF Investment Fund (Direct Lending AIF), L.P."
+  },
+  "1821055": {
+   "active": true,
+   "name": "Oaktree Huntington-GCF Investment Fund, L.P."
+  },
+  "1821085": {
+   "active": true,
+   "name": "Oaktree Gilead Investment Fund AIF (Delaware), L.P."
+  },
+  "1821106": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund II, SCSp"
+  },
+  "1821163": {
+   "active": true,
+   "name": "Oaktree-TSE 16 Real Estate Debt, LLC"
+  },
+  "1821167": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund V (Parallel) SCSp"
+  },
+  "1821206": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund III (Lux), SCSp"
+  },
+  "1821249": {
+   "active": true,
+   "name": "Oaktree Capital Management (UK) LLP"
+  },
+  "1821252": {
+   "active": true,
+   "name": "Oaktree (Lux.) FS S.C.Sp. SICAV-RAIF"
+  },
+  "1821298": {
+   "active": true,
+   "name": "Oaktree CLO 2020-1, Ltd."
+  },
+  "1821299": {
+   "active": true,
+   "name": "Oaktree CLO 2019-4, Ltd."
+  },
+  "1821347": {
+   "active": true,
+   "name": "Oaktree CLO 2019-3, Ltd."
+  },
+  "1821350": {
+   "active": true,
+   "name": "Oaktree CLO 2019-2 Ltd."
+  },
+  "1821409": {
+   "active": false,
+   "name": "Oaktree CLO 2019-1 Ltd."
+  },
+  "1821410": {
+   "active": false,
+   "name": "Oaktree CLO 2018-1 Ltd."
+  },
+  "1821428": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel), SCSp"
+  },
+  "1821429": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel), L.P."
+  },
+  "1821430": {
+   "active": false,
+   "name": "Oaktree Transportation Infrastructure Fund (Parallel 3), L.P."
+  },
+  "1821431": {
+   "active": false,
+   "name": "Oaktree Transportation Infrastructure Fund (Parallel 2), L.P."
+  },
+  "1821622": {
+   "active": false,
+   "name": "PE Premier Oaktree Opportunities XI Offshore Feeder L.P."
+  },
+  "1821623": {
+   "active": false,
+   "name": "PE Premier Oaktree Opportunities XI Onshore Feeder L.P."
+  },
+  "1821625": {
+   "active": false,
+   "name": "iCapital-Oaktree Opportunities XI Access Fund, L.P."
+  },
+  "1821721": {
+   "active": true,
+   "name": "Oaktree Oasis Investment Fund, L.P."
+  },
+  "1821734": {
+   "active": false,
+   "name": "Oaktree Desert Sky Investment Fund II, L.P."
+  },
+  "1821786": {
+   "active": true,
+   "name": "Oaktree Moraine Co-Investment Fund, L.P."
+  },
+  "1821863": {
+   "active": true,
+   "name": "Oaktree SBIC Fund, L.P."
+  },
+  "1821935": {
+   "active": true,
+   "name": "Oaktree Glacier Investment Fund II, L.P."
+  },
+  "1822717": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XI (Parallel 2), SCSp"
+  },
+  "1822718": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund II, SCSp-RAIF"
+  },
+  "1822719": {
+   "active": true,
+   "name": "Oaktree FF Emerging Markets Opportunities Fund, L.P."
+  },
+  "1822720": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XI (Parallel 3), L.P."
+  },
+  "1822721": {
+   "active": true,
+   "name": "Oaktree Cascade Investment Fund III, L.P."
+  },
+  "1822969": {
+   "active": true,
+   "name": "Oaktree Emerging Market Debt Fund, L.P."
+  },
+  "1822970": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel) 4, L.P."
+  },
+  "1822971": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel) 3, L.P."
+  },
+  "1822972": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel) 2, L.P."
+  },
+  "1822973": {
+   "active": true,
+   "name": "Oaktree Fund Advisors, LLC"
+  },
+  "1823152": {
+   "active": false,
+   "name": "iCapital-Oaktree Opportunities XI Offshore Access Fund, L.P."
+  },
+  "1824980": {
+   "active": false,
+   "name": "Oaktree Acquisition Holdings II GP, Ltd."
+  },
+  "1831013": {
+   "active": true,
+   "name": "Oaktree Capital Management GP, LLC"
+  },
+  "1832504": {
+   "active": false,
+   "name": "Eagle - Oaktree Opportunities XI Access Fund, L.P."
+  },
+  "1834996": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund IV (Delaware) Holdings, L.P."
+  },
+  "1837710": {
+   "active": false,
+   "name": "Oaktree Opportunities Access Fund XI, L.P."
+  },
+  "1843397": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XI Feeder (Luxembourg), SCSp"
+  },
+  "1845036": {
+   "active": false,
+   "name": "Oaktree Acquisition Corp. III"
+  },
+  "1861548": {
+   "active": true,
+   "name": "BROOKFIELD PRIVATE WEALTH LLC"
+  },
+  "1864037": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund III, L.P."
+  },
+  "1864039": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund III Feeder (JPYH), L.P."
+  },
+  "1864092": {
+   "active": false,
+   "name": "Oaktree European Capital Solutions Fund III Feeder (USDH), L.P."
+  },
+  "1870714": {
+   "active": true,
+   "name": "Oaktree Diversified Income Fund Inc."
+  },
+  "1872371": {
+   "active": true,
+   "name": "Oaktree Strategic Credit Fund"
+  },
+  "1879055": {
+   "active": false,
+   "name": "Oaktree Mezzanine Fund V Feeder (JPYH), L.P."
+  },
+  "1879380": {
+   "active": false,
+   "name": "Oaktree Life Sciences Lending Fund Feeder Cayman (Parallel), L.P."
+  },
+  "1879382": {
+   "active": true,
+   "name": "Oaktree Life Sciences Lending Fund (Parallel), L.P."
+  },
+  "1879383": {
+   "active": true,
+   "name": "Oaktree Life Sciences Lending Fund (Parallel 2), L.P."
+  },
+  "1879547": {
+   "active": true,
+   "name": "Oaktree Life Sciences Lending Fund, L.P."
+  },
+  "1892286": {
+   "active": false,
+   "name": "Oaktree Phoenix Investment Fund AIF (Delaware), L.P."
+  },
+  "1893422": {
+   "active": true,
+   "name": "Oaktree AZ Strategic Lending Fund, L.P."
+  },
+  "1894251": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund VI (Parallel), L.P."
+  },
+  "1894264": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund VI Feeder (Cayman), L.P."
+  },
+  "1894287": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund VI, L.P."
+  },
+  "1894389": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund V (Delaware) Holdings, L.P."
+  },
+  "1899979": {
+   "active": false,
+   "name": "Oaktree RE Debt Access Fund III, L.P."
+  },
+  "1904457": {
+   "active": false,
+   "name": "Oaktree Special Situations Fund III Feeder (Cayman), L.P."
+  },
+  "1904488": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund III, L.P."
+  },
+  "1905533": {
+   "active": true,
+   "name": "Oaktree Global Credit Plus Fund (Parallel), L.P."
+  },
+  "1905545": {
+   "active": true,
+   "name": "Oaktree Global Credit Plus Fund (Parallel 2), L.P."
+  },
+  "1905550": {
+   "active": true,
+   "name": "Oaktree Global Credit Plus Fund Feeder Cayman (Parallel), L.P."
+  },
+  "1905861": {
+   "active": true,
+   "name": "Oaktree Direct Lending Fund, L.P."
+  },
+  "1905866": {
+   "active": false,
+   "name": "Oaktree Direct Lending Fund Feeder Cayman (Parallel), L.P."
+  },
+  "1906681": {
+   "active": true,
+   "name": "Oaktree Global Credit Plus Fund, L.P. / Cayman Islands"
+  },
+  "1906830": {
+   "active": true,
+   "name": "Oaktree Direct Lending Fund (Parallel), L.P."
+  },
+  "1909206": {
+   "active": true,
+   "name": "Oaktree Debt Acquisition Fund (Parallel 2), L.P."
+  },
+  "1920506": {
+   "active": false,
+   "name": "Oaktree Ports America Capital Partners, L.P."
+  },
+  "1920514": {
+   "active": false,
+   "name": "Oaktree Ports America Capital Partners Feeder, L.P."
+  },
+  "1920604": {
+   "active": true,
+   "name": "Duration Transportation Infrastructure Capital Partners, L.P."
+  },
+  "1920824": {
+   "active": true,
+   "name": "Duration Transportation Infrastructure Capital Partners Feeder (Cayman), L.P."
+  },
+  "1920825": {
+   "active": true,
+   "name": "Duration Transportation Infrastructure Capital Partners (Parallel), L.P."
+  },
+  "1924659": {
+   "active": false,
+   "name": "Oaktree Strategic Credit iCapital Access Fund SPC"
+  },
+  "1932756": {
+   "active": true,
+   "name": "Oaktree Patriot Investment Fund, L.P."
+  },
+  "1933780": {
+   "active": true,
+   "name": "Duration Transportation Infrastructure Capital Partners (Parallel 2), L.P."
+  },
+  "1933813": {
+   "active": false,
+   "name": "Oaktree TICP Managed Co-Investment Fund, L.P."
+  },
+  "1933814": {
+   "active": false,
+   "name": "Oaktree TICP Managed Co-Investment Fund (Parallel 2), L.P."
+  },
+  "1934171": {
+   "active": false,
+   "name": "Oaktree Baltimore Investment Fund, L.P."
+  },
+  "1934853": {
+   "active": false,
+   "name": "Oaktree Special Situations III iCapital Access Fund, L.P."
+  },
+  "1936793": {
+   "active": true,
+   "name": "Duration TICP Feeder 2 (Cayman), L.P."
+  },
+  "1941933": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Access Offshore LP"
+  },
+  "1949587": {
+   "active": false,
+   "name": "Oaktree Special Situations Fund III Feeder (PVCF), L.P."
+  },
+  "1950060": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XI Holdings (Delaware), L.P."
+  },
+  "1953106": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII, L.P."
+  },
+  "1953113": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII Feeder (Cayman), L.P."
+  },
+  "1953114": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII Feeder 2 (Cayman), L.P."
+  },
+  "1953118": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII (Parallel), L.P."
+  },
+  "1953363": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX, L.P."
+  },
+  "1953411": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX Feeder (Cayman), L.P."
+  },
+  "1954726": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX Feeder (Delaware), L.P."
+  },
+  "1958327": {
+   "active": false,
+   "name": "PE Premier Oaktree Special Situations Fund III Offshore Feeder L.P."
+  },
+  "1958328": {
+   "active": false,
+   "name": "PE Premier Oaktree Special Situations Fund III Onshore Feeder L.P."
+  },
+  "1973672": {
+   "active": false,
+   "name": "Oaktree Gardens OLP SPV, L.P."
+  },
+  "1974793": {
+   "active": true,
+   "name": "Oaktree Gardens OLP, LLC"
+  },
+  "1975680": {
+   "active": true,
+   "name": "Oaktree Direct Lending Fund Unlevered, L.P."
+  },
+  "1975697": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII Feeder 6 (Cayman), L.P."
+  },
+  "1975904": {
+   "active": true,
+   "name": "Oaktree Direct Lending Fund Unlevered (Parallel), L.P."
+  },
+  "1976211": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII Feeder 5 (Delaware), L.P."
+  },
+  "1976213": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII Feeder 3 (Cayman), L.P."
+  },
+  "1976782": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV Feeder (Cayman) V, L.P."
+  },
+  "1976783": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV Feeder (Cayman) IV, L.P."
+  },
+  "1976784": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV Feeder (Cayman) III, L.P."
+  },
+  "1976785": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV Feeder (Cayman) II, L.P."
+  },
+  "1976786": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV Feeder (Cayman) I, L.P."
+  },
+  "1976787": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt Fund IV, L.P."
+  },
+  "1977281": {
+   "active": false,
+   "name": "PE Premier Oaktree Opportunities Fund XII Onshore Feeder L.P."
+  },
+  "1977320": {
+   "active": false,
+   "name": "PE Premier Oaktree Opportunities Fund XII Offshore Feeder L.P."
+  },
+  "1977739": {
+   "active": true,
+   "name": "Oaktree CLO Equity Fund I, L.P."
+  },
+  "1979204": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund (Parallel III), L.P."
+  },
+  "1981946": {
+   "active": false,
+   "name": "Oaktree AIF (Cayman) GP Ltd."
+  },
+  "1982275": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX (Parallel), L.P."
+  },
+  "1982798": {
+   "active": false,
+   "name": "Oaktree Fund AIF Series (Cayman), L.P."
+  },
+  "1985470": {
+   "active": true,
+   "name": "Oaktree Opportunities XII iCapital Onshore Access Fund, L.P."
+  },
+  "1986559": {
+   "active": true,
+   "name": "Oaktree Real Estate Credit Income Fund, L.P."
+  },
+  "1986562": {
+   "active": true,
+   "name": "Oaktree Real Estate Credit Income Fund Feeder (Cayman) I, L.P."
+  },
+  "1987904": {
+   "active": true,
+   "name": "Oaktree Opportunities XII iCapital Offshore Access Fund, L.P."
+  },
+  "1988924": {
+   "active": true,
+   "name": "Oaktree European CLO Capital Fund II"
+  },
+  "1992600": {
+   "active": true,
+   "name": "Oaktree Loan Acquisition Fund, L.P."
+  },
+  "1992639": {
+   "active": false,
+   "name": "Oaktree LSL Fund Delaware Holdings EURRC, L.P."
+  },
+  "1992640": {
+   "active": true,
+   "name": "Oaktree PRE Life Sciences Fund, L.P."
+  },
+  "1992719": {
+   "active": false,
+   "name": "Oaktree GCP Fund Delaware Holdings, L.P."
+  },
+  "1993020": {
+   "active": false,
+   "name": "Oaktree LSL Fund Holdings EURRC S.a.r.l."
+  },
+  "1995229": {
+   "active": true,
+   "name": "Oaktree Route 66 Multi-Strategy Fund, L.P."
+  },
+  "1995252": {
+   "active": true,
+   "name": "Oaktree PRE Life Sciences AIF, L.P."
+  },
+  "1995253": {
+   "active": true,
+   "name": "Oaktree Jalapeno Investment Fund, L.P."
+  },
+  "1995254": {
+   "active": true,
+   "name": "Oaktree Epsilon Investment Fund, L.P."
+  },
+  "1995256": {
+   "active": true,
+   "name": "Oaktree Maritime & Transportation Fund, L.P."
+  },
+  "1995345": {
+   "active": true,
+   "name": "Oaktree Capital Management (International) Ltd"
+  },
+  "1995358": {
+   "active": true,
+   "name": "Oaktree CLO 2021-1, Ltd."
+  },
+  "1995359": {
+   "active": true,
+   "name": "Oaktree CLO 2021-2, Ltd."
+  },
+  "1995360": {
+   "active": true,
+   "name": "Oaktree CLO 2022-1, Ltd."
+  },
+  "1995473": {
+   "active": true,
+   "name": "Oaktree CLO 2023-2, Ltd."
+  },
+  "1995474": {
+   "active": true,
+   "name": "Oaktree Capital Management (Europe) LLP"
+  },
+  "1995918": {
+   "active": true,
+   "name": "Oaktree Broadgate Multi-Strategy Fund, L.P."
+  },
+  "1996127": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund (Parallel II), L.P."
+  },
+  "1996128": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund (Parallel), L.P."
+  },
+  "1996231": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel) 5, L.P."
+  },
+  "1996232": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund VIII (Parallel) 6, L.P."
+  },
+  "1996234": {
+   "active": true,
+   "name": "Oaktree CLO 2022-2, Ltd."
+  },
+  "1996324": {
+   "active": true,
+   "name": "Oaktree CLO 2023-1, Ltd."
+  },
+  "1996467": {
+   "active": true,
+   "name": "Oaktree Direct Lending Fund, SCSp"
+  },
+  "1996468": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund, SCSp-RAIF"
+  },
+  "1996471": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII (Parallel 2), SCSp"
+  },
+  "1996472": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund III (Parallel 2), SCSp"
+  },
+  "1996474": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII (Parallel 4), SCSp"
+  },
+  "1996475": {
+   "active": true,
+   "name": "Oaktree European Capital Solutions Fund III, SCSp"
+  },
+  "1996524": {
+   "active": true,
+   "name": "Oaktree CLO 2022-3, Ltd."
+  },
+  "1996538": {
+   "active": true,
+   "name": "Oaktree Life Sciences Lending Fund (Parallel), SCSp"
+  },
+  "1996555": {
+   "active": true,
+   "name": "Oaktree Life Sciences Lending Fund, SCSp"
+  },
+  "1996675": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII (Parallel 3), L.P."
+  },
+  "1996677": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund VI (Parallel 3), L.P."
+  },
+  "2000211": {
+   "active": false,
+   "name": "Oaktree Lending Partners Feeder, L.P."
+  },
+  "2000213": {
+   "active": true,
+   "name": "Oaktree Lending Partners (Acquisition), L.P."
+  },
+  "2000271": {
+   "active": true,
+   "name": "Oaktree Lending Partners (Unlevered), L.P."
+  },
+  "2000272": {
+   "active": true,
+   "name": "Oaktree Lending Partners, L.P."
+  },
+  "2000281": {
+   "active": true,
+   "name": "Oaktree Lending Partners (Unlevered) Feeder, L.P."
+  },
+  "2002389": {
+   "active": true,
+   "name": "Oaktree Lending Partners (Unlevered), SCSp"
+  },
+  "2002552": {
+   "active": true,
+   "name": "Oaktree Myriad Investment Fund, L.P."
+  },
+  "2002851": {
+   "active": true,
+   "name": "Oaktree Lending Partners Feeder (Unlevered) (Parallel) (ICI), L.P."
+  },
+  "2004348": {
+   "active": false,
+   "name": "Oaktree Real Estate Finance IV (Non-EURRC), LLC"
+  },
+  "2004429": {
+   "active": false,
+   "name": "Oaktree Real Estate Finance IV, LLC"
+  },
+  "2004458": {
+   "active": false,
+   "name": "Oaktree Real Estate Opportunities Fund IX REIT, LLC"
+  },
+  "2004461": {
+   "active": false,
+   "name": "Oaktree Opportunities Fund XII RE Holdings, LLC"
+  },
+  "2004471": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX (Parallel) 2, L.P."
+  },
+  "2009505": {
+   "active": true,
+   "name": "Oaktree Japan Equity Seed Fund, L.P."
+  },
+  "2013966": {
+   "active": true,
+   "name": "Silver Oaktree Global Fund"
+  },
+  "2016691": {
+   "active": false,
+   "name": "Oaktree Opportunities Access Fund XII (Offshore), L.P."
+  },
+  "2016760": {
+   "active": false,
+   "name": "Oaktree Opportunities Access Fund XII, L.P."
+  },
+  "2019307": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund VII Feeder 2 (Cayman), L.P."
+  },
+  "2019308": {
+   "active": false,
+   "name": "Oaktree Power Opportunities Fund VII Feeder (Cayman), L.P."
+  },
+  "2019342": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund VII, L.P."
+  },
+  "2021491": {
+   "active": false,
+   "name": "Oaktree Opportunities XII CAIS (Onshore) Access Fund, L.P."
+  },
+  "2021820": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund VII (Parallel), L.P."
+  },
+  "2025283": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund Feeder II, L.P."
+  },
+  "2025290": {
+   "active": true,
+   "name": "Oaktree Real Estate Income Fund Feeder III, L.P."
+  },
+  "2026131": {
+   "active": true,
+   "name": "Oaktree Asset-Backed Finance Fund (Parallel), L.P."
+  },
+  "2026151": {
+   "active": true,
+   "name": "Oaktree Asset-Backed Finance Fund, L.P."
+  },
+  "2027134": {
+   "active": true,
+   "name": "Oaktree London Liquid Value Opportunities Fund (VOF), L.P."
+  },
+  "2029769": {
+   "active": true,
+   "name": "Oaktree Acquisition Corp. III Life Sciences"
+  },
+  "2029774": {
+   "active": true,
+   "name": "Oaktree Acquisition Holdings III LS GP, Ltd."
+  },
+  "2035634": {
+   "active": true,
+   "name": "OAKTREE N ROF IX INVESTMENT FUND, L.P."
+  },
+  "2037181": {
+   "active": true,
+   "name": "Oaktree Acquisition Holdings III LS, LLC"
+  },
+  "2037984": {
+   "active": true,
+   "name": "AA Oaktree Power7 Access Fund LLC"
+  },
+  "2048688": {
+   "active": true,
+   "name": "Oaktree Life Sciences Income Fund, L.P."
+  },
+  "2048689": {
+   "active": true,
+   "name": "Oaktree Life Sciences Income Fund Feeder Cayman (Parallel), L.P."
+  },
+  "2048690": {
+   "active": true,
+   "name": "Oaktree Life Sciences Income Fund (Parallel), L.P."
+  },
+  "2049980": {
+   "active": true,
+   "name": "Oaktree M Super Private Credit Fund, L.P."
+  },
+  "2051435": {
+   "active": true,
+   "name": "Oaktree China Equity Seed Fund, L.P."
+  },
+  "2051441": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX Mortgage Holdings, LLC"
+  },
+  "2051511": {
+   "active": true,
+   "name": "Oaktree Asset-Backed Income Fund Inc."
+  },
+  "2051512": {
+   "active": true,
+   "name": "Oaktree Asset-Backed Income Private Placement Fund Inc."
+  },
+  "2051592": {
+   "active": true,
+   "name": "Oaktree Real Estate Credit Income Finance, LLC"
+  },
+  "2051655": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX Med Holdings, LLC"
+  },
+  "2051684": {
+   "active": true,
+   "name": "Oaktree Real Estate Credit Income Finance (Non-EURRC), LLC"
+  },
+  "2052544": {
+   "active": true,
+   "name": "Oaktree Insurance Dedicated Fund Series of the SALI Multi-Series Fund, L.P."
+  },
+  "2052726": {
+   "active": true,
+   "name": "Oaktree Olorin Investment Fund, L.P."
+  },
+  "2058691": {
+   "active": true,
+   "name": "Oaktree-Copley Investments, LLC"
+  },
+  "2062800": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund IV Feeder (Parallel), L.P."
+  },
+  "2062802": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund IV, L.P."
+  },
+  "2062815": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund IV (Parallel), L.P."
+  },
+  "2066157": {
+   "active": true,
+   "name": "Oaktree LSI Nightingale, LLC"
+  },
+  "2067184": {
+   "active": true,
+   "name": "Oaktree QR CLV, L.P."
+  },
+  "2067994": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund VI (Acquisition), L.P."
+  },
+  "2067995": {
+   "active": true,
+   "name": "Oaktree BioYield Investment Fund, L.P."
+  },
+  "2067996": {
+   "active": true,
+   "name": "Oaktree Global Credit Investment Grade Fund, L.P."
+  },
+  "2067997": {
+   "active": true,
+   "name": "Oaktree Real Estate SMA (Q), L.P."
+  },
+  "2067998": {
+   "active": true,
+   "name": "Oaktree Alias Investment Fund, L.P."
+  },
+  "2067999": {
+   "active": true,
+   "name": "Oaktree Middle-Market Direct Lending Unlevered JPN-A 2017 Fund, L.P."
+  },
+  "2068006": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX (Parallel), SCSp"
+  },
+  "2068007": {
+   "active": true,
+   "name": "Oaktree Power Opportunities Fund VII (Parallel), SCSp"
+  },
+  "2068008": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund VI (Acquisition) (Lux), SCSp"
+  },
+  "2068009": {
+   "active": true,
+   "name": "Oaktree Life Sciences Income Fund, SCSp"
+  },
+  "2068011": {
+   "active": true,
+   "name": "Oaktree Blue Credit 1 Investment Fund, L.P."
+  },
+  "2069107": {
+   "active": true,
+   "name": "Oaktree Mezzanine Fund VI (Lending), L.P."
+  },
+  "2069109": {
+   "active": true,
+   "name": "Oaktree Glick CLO Dislocation JV, LLC"
+  },
+  "2071034": {
+   "active": true,
+   "name": "Oaktree Special Situations IV iCapital Onshore Access Fund, L.P."
+  },
+  "2071765": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund IV (Lux), SCSp"
+  },
+  "2071804": {
+   "active": true,
+   "name": "Oaktree CLO 2024-25, Ltd."
+  },
+  "2071805": {
+   "active": true,
+   "name": "Oaktree CLO 2024-26, Ltd."
+  },
+  "2071806": {
+   "active": true,
+   "name": "Oaktree CLO 2024-27, Ltd."
+  },
+  "2071807": {
+   "active": true,
+   "name": "Oaktree CLO 2024-28, Ltd."
+  },
+  "2071808": {
+   "active": true,
+   "name": "Oaktree CLO 2025-29, Ltd."
+  },
+  "2071809": {
+   "active": true,
+   "name": "Oaktree CLO 2025-30, Ltd."
+  },
+  "2072285": {
+   "active": true,
+   "name": "Oaktree Special Situations IV iCapital Offshore Access Fund, L.P."
+  },
+  "2073230": {
+   "active": true,
+   "name": "Oaktree Real Estate Opportunities Fund IX Feeder (Cayman) 2, L.P."
+  },
+  "2076762": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII (Parallel 5), L.P."
+  },
+  "2079317": {
+   "active": true,
+   "name": "Oaktree Pinehurst Co-Invest, L.P."
+  },
+  "2079936": {
+   "active": true,
+   "name": "Oaktree Asset-Backed Income iCapital Offshore Access Fund SPC"
+  },
+  "2080759": {
+   "active": true,
+   "name": "Oaktree Pinehurst Blocked Co-Invest, L.P."
+  },
+  "2081845": {
+   "active": true,
+   "name": "Oaktree Insurance Dedicated Fund II Series of the SALI Multi-Series Fund, L.P."
+  },
+  "2082323": {
+   "active": true,
+   "name": "Oaktree Direct Lending Evergreen Fund, L.P."
+  },
+  "2082324": {
+   "active": true,
+   "name": "Oaktree Direct Lending Evergreen Acquisition Fund Feeder, L.P."
+  },
+  "2082325": {
+   "active": true,
+   "name": "Oaktree Direct Lending Evergreen Fund Feeder, L.P."
+  },
+  "2082326": {
+   "active": true,
+   "name": "Oaktree Direct Lending Evergreen Acquisition Fund, L.P."
+  },
+  "2084551": {
+   "active": true,
+   "name": "Oaktree Cascade Investment Fund IV, L.P."
+  },
+  "2085806": {
+   "active": true,
+   "name": "Oaktree Special Situations Fund IV Feeder (DE), L.P."
+  },
+  "2086302": {
+   "active": true,
+   "name": "PE Premier Oaktree Special Situations Fund IV Offshore Feeder L.P."
+  },
+  "2086303": {
+   "active": true,
+   "name": "PE Premier Oaktree Special Situations Fund IV Onshore Feeder L.P."
+  },
+  "2094080": {
+   "active": true,
+   "name": "Oaktree Aurora (Cayman) Fund, L.P."
+  },
+  "2094081": {
+   "active": true,
+   "name": "Oaktree Aurora (Feeder) Fund, L.P."
+  },
+  "2095043": {
+   "active": true,
+   "name": "Oaktree Opps XII-Q, L.P."
+  },
+  "2100783": {
+   "active": true,
+   "name": "Brookfield Oaktree Holdings Canada LLC"
+  },
+  "2103937": {
+   "active": true,
+   "name": "Oaktree Multi-Strategy Credit Archway Evergreen Fund, L.P."
+  },
+  "2111516": {
+   "active": true,
+   "name": "Oaktree Dislocation Credit SMA Fund, L.P."
+  },
+  "2112147": {
+   "active": true,
+   "name": "OAKTREE ABF EQUIPMENT DEPOSITOR, LLC"
+  },
+  "2137514": {
+   "active": true,
+   "name": "Oaktree EDL Sapling Fund, L.P."
+  },
+  "2143238": {
+   "active": true,
+   "name": "Oaktree Real Estate Debt REIT Aggregator, L.P."
+  },
+  "2149012": {
+   "active": true,
+   "name": "Oaktree Opportunities Fund XII Holdings (Delaware), L.P."
+  },
+  "2153506": {
+   "active": true,
+   "name": "Oaktree Decker Investment, L.P."
+  },
+  "943457": {
+   "active": false,
+   "name": "OAKTREE CAPITAL MANAGEMENT LLC                          /ADV"
+  },
+  "945816": {
+   "active": true,
+   "name": "OAKTREE HIGH YIELD BOND FUND, L.P."
+  },
+  "946224": {
+   "active": false,
+   "name": "OAKTREE NON-U.S. CONVERTIBLE FUND, L.P."
+  },
+  "949509": {
+   "active": true,
+   "name": "OAKTREE CAPITAL MANAGEMENT LP"
+  }
+ },
+ "ciks_updated": "2026-09-23T19:23:48.947572+00:00",
+ "initialized": true,
+ "last_inactive_check": "2026-09-23T19:25:33.316242+00:00",
+ "news_seen": {
+  "CBMi0AFBVV95cUxQdEQ2U05sdlF6eWNuNjYxd0ZEeW9uUWkzcjFGSWpIckxfWmZyTGFHQ1R4TDVQbXNCM2Fhd0ctNG5HRFhMQ1ZBZzc2N0ExaHY0Y3hVbEZPanZvMmtBNk04alUzVWZxWTFyRUl3LUxEa0dsdlBIdVBGQWxoY2xHcnV3ekNocnJCVkFxcE1PNlhCSGtVd08wbllOT1RXRnNqY1U0UWJ5M2poQmZfV0NZV2daSU9OUnlqUmdEZXZ0MUpxUnFuQzRTM0ZBTXdZTndmZ3RC0gHWAUFVX3lxTE1MTEhOYWNpOGw1ZUh3UlBpM3dVV1lDTmxCVDNvYVphVlB1WHlndWdCb2I3X0kwYnFhUHNuVEtiWGV3eE9Eamx3S3l2OXBad1hzbFVhZldsNUdBTVJ0eFBvZWJIaVNYMVc4N29OZlVwTlBLMGFxeWZBRFRFOEdkWmxjRlRBa3U0UHMxLWpiem1ZYlJ4U1JBMnkwakVhNU0xelB2TVpFblNLcFJYTERqdWpUWkR3Um9iOGRZeFc0STJ5ZEl6ZzJHYi11d0h2Z1ZOdmxDbmh2Smc": "2026-09-23",
+  "CBMid0FVX3lxTE9wbTdTWWdTbWFYSXNLX1pNQ1VGQXZLZUVOQ2xZOGZqYUdYbVlqekNaTUxyc2d5TXU4SVBjN0NtendWTW1IMVh2dTNxNk9ucF9lSi0tbzBRY285REQ0Zk8yRFFicWx4R2d0YWo5TmFZSzJETUFXS0w0": "2026-09-23",
+  "CBMikAFBVV95cUxNdUp0Q21zYjNqYnBTWXZJUlIwUUI4aG5OZnNreEdRTHBvd1N0QmxGTGhzZ211d0lGZG5nVHdGY3BFTHdYbXYtY19SRWdxazdIMWJlZ2VRd0luY2Uwd0FHa3dlaVBfSjZhYi1mSXkwNHpSZFQ2cy1sVjJDMWxSRWNOWGFxUDdxeW9selkxeHh2b3U": "2026-09-23",
+  "CBMilwFBVV95cUxNVUc0T2FkSzBha0d0NzIyVnFKeVA5dENWOWV2enVsX3JJNTdvYm02clR6RmJmUEZTZnRXZnZTX01VbzRzM3hINHR5ZEVseHVPdHdrNi1zaUlvLV9LVHJlVGV2TFVQWWgwQUt2SG1MMTVGY2VsVkN5OXd1QVlFdWlldklzZ1d1V0hxQVdweDRVN3NBTFVTdkJv": "2026-09-23",
+  "CBMisgFBVV95cUxPeFlheXZ3YWxVSGxaWWZmdU1IdmZBeDBqZ3dLT0ZFbHpIbWNvcWJ3b2Z0ZEU5bC1VNWFvbVhzTGhoUzQ3ekZXRTZlLWZOMTZfeEF3ZHdSNUlnUU1UQTZVSjY2QkM4b3B4NU9ZXzNWTG5kYW03WFFGbGdxenRzWWpNUXcyVThFcFY3d1I1aHBhVElTTlB2MVUwNlJORjhUWjQ2LTlreGVrcUFxZlJkcEFKYUdR": "2026-09-23",
+  "CBMitgFBVV95cUxPMjRyOTBOR3ZybW10d2dNdVRfX1BKSGxHbGNaY1dTU3dNVU0yMnpWaVJwWTY0THBKaGhmdkx3MnlpVUtRN1pDVFcxRHFCZXYwV01Na3U0X2k3ZjBhM1RWblV3aGhPRGtJektuVmY2eHNkbVJmSDI2elVtVkQ4dHpDLW5lRzloUV9oVzNSMEpma09MbUNGbUV3Qk51b2hfU1NkR0VnZHBtS0hhWnVOVXp3TnBEZlZEUQ": "2026-09-23",
+  "t:oaktree capital group oak faces valuation challenges amid fisc": "2026-09-23",
+  "t:oaktree s 1 5 billion preferred equity bet on uwm explained": "2026-09-23",
+  "t:oaktree trims torm stake as hafnia steps in": "2026-09-23",
+  "t:u s borrowing costs need fiscal fix oaktree s marks says us10y": "2026-09-23",
+  "t:uwm sets terms for 400m rights offering with oaktree ishbia backstop": "2026-09-23",
+  "t:world is probably stuck with the dollar for now oaktree s howard marks": "2026-09-23"
+ },
+ "seen": {
+  "0001140361-26-036787": "2026-09-16",
+  "0001837817-26-000015": "2026-09-17",
+  "0001907056-26-000024": "2026-09-18",
+  "0001959173-26-006962": "2026-09-15",
+  "0001959173-26-006963": "2026-09-15",
+  "0001959173-26-007001": "2026-09-16",
+  "0001959173-26-007029": "2026-09-17",
+  "0001959173-26-007071": "2026-09-22",
+  "0001965903-26-000008": "2026-09-17",
+  "0002068597-26-000004": "2026-09-17"
+ }
+}
