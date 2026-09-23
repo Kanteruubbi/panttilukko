@@ -24,7 +24,7 @@
         {
           "name": "Tallenna tila",
           "if": "always()",
-          "run": "git config user.name oaktree-vahti && git config user.email oaktree-vahti@users.noreply.github.com && (git add oaktree_state.json || true) && (git diff --cached --quiet || (git commit -m 'Paivita tila' && git push))"
+          "run": "cp oaktree_state.json /tmp/tila.json 2>/dev/null || true; git config user.name oaktree-vahti && git config user.email oaktree-vahti@users.noreply.github.com && git fetch origin main && git reset --hard origin/main && (cp /tmp/tila.json oaktree_state.json 2>/dev/null || true) && (git add oaktree_state.json || true) && (git diff --cached --quiet || (git commit -m 'Paivita tila' && git push))"
         }
       ]
     }
